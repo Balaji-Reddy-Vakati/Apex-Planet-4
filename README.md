@@ -1,22 +1,34 @@
-# Apex Planet Internship Project 4
+# Apex Planet Internship – Portfolio, To-Do & Product Listing
 
-## About
-This repository contains my fourth project/task completed as part of the Apex Planet internship program.
+## Overview
+
+An interactive web development project created as part of my Apex Planet internship.
+
+The project combines a personal portfolio section with a functional To-Do List and a Product Listing interface.
+
+## Features
+
+- Personal portfolio section
+- Interactive To-Do List
+- Add and delete tasks
+- Task persistence using browser localStorage
+- Product listing section
+- Product category filtering
+- Product search functionality
+- Responsive webpage structure
+- Interactive navigation
 
 ## Technologies Used
-- HTML
-- CSS
+
+- HTML5
+- CSS3
 - JavaScript
+- Browser localStorage
 
-## Project Work
-This project demonstrates practical web development work completed during the internship.
+## Project Structure
 
-## Key Learning
-- Frontend development
-- Web page design and styling
-- JavaScript implementation
-- Responsive web development
-- Practical project development
-
-## Author
-Vakati Balaji Sumanth Krishna Reddy
+```text
+Apex-Planet-4/
+├── portfolio.html
+├── Screenshot 2025-06-13 183157.png
+└── README.md
